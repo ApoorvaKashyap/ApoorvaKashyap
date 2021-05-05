@@ -9,6 +9,9 @@
 <a href="https://replit.com/@ApoorvaKashyap">
     <img align="left" alt="Apoorva Kashyap | Repl.it" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/repl-dot-it.svg" />
 </a>
+<a href="">
+    <img align="left" alt="Apoorva Kashyap | Discord">
+</a>
 <a href="https://twitter.com/kashyap_apoorva">
     <img align="left" alt="Apoorva Kashyap | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,17 +27,17 @@
 Here are some ideas to get you started:-->
 Hi! I am Apoorva Kashyap. 
 
-I am sorta explorer in today's sea of coding languages and tools, with a deep interest in anything open source coz that means a lot of tweaking and suiting my needs of the hour.
+I am sorta explorer in the sea of coding languages and tools, with a deep interest in anything open source coz that means a lot of tweaking and suiting my needs of the hour.
 
 - 🔭 I’m currently working on completing the [CS50 Course](https://cs50.harvard.edu/) as well as my undergraduation. 😉
-- 🌱 I’m currently learning not to procastinate. 🙃
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning not to procastinate my learning materials. 🙃
+- 👯 I’m looking for collaborators on my Music Player Project [Fine Tune](https://github.com/ApoorvaKashyap/Fine-Tune).
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about anything related to customization of Ubuntu Linux. 🐧
+- 📬 How to reach me: Discord (AKashyap54#7858)
+- ⚡ Fun fact: I am too lazy to write this. 🦥🦥
+
+---
 
 ### **Languages and Tools:**  
 
@@ -79,3 +82,5 @@ I am sorta explorer in today's sea of coding languages and tools, with a deep in
 <br/>
 
 ![Apoorva's Github Stats](https://github-readme-stats.vercel.app/api?username=ApoorvaKashyap&count_private=true&show_icons=true&theme=onedark&hide=prs)
+
+![Apoorva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaKashyap&theme=onedark)
