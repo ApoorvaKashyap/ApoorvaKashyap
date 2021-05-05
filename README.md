@@ -21,10 +21,13 @@
 <!--
 **ApoorvaKashyap/ApoorvaKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
+Hi! I am Apoorva Kashyap. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I am sorta explorer in today's sea of coding languages and tools, with a deep interest in anything open source coz that means a lot of tweaking and suiting my needs of the hour.
+
+- 🔭 I’m currently working on completing the [CS50 Course](https://cs50.harvard.edu/) as well as my undergraduation. 😉
+- 🌱 I’m currently learning not to procastinate. 🙃
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -71,3 +74,8 @@ Here are some ideas to get you started:
 
 ---
 
+### ⚡ **View my Github Stats** ⚡
+
+<br/>
+
+![Apoorva's Github Stats](https://github-readme-stats.vercel.app/api?username=ApoorvaKashyap&count_private=true&show_icons=true&theme=onedark&hide=prs)
