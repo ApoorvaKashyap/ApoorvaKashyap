@@ -18,9 +18,9 @@
 
 ## **About Me**
 
-### Now Playing on Spotify
+<!--### Now Playing on Spotify
 [<img src="https://spotify-now-playing-ten-beryl.vercel.app/api/spotify" alt="Apoorva's Spotify Playing" width="350" />](https://open.spotify.com/user/313lqr6fddefbomvlzak4tfe5elu)
-
+-->
 
 Hi! I am Apoorva Kashyap.
 
