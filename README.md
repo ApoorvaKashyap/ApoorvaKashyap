@@ -28,7 +28,7 @@ I am sorta explorer in the sea of coding languages and tools, with a deep intere
 
 - 🔭 I’m currently working on completing the [CS50 Course](https://cs50.harvard.edu/) as well as my undergraduation. 😉
 - 🌱 I’m currently learning not to procastinate my learning materials. 🙃
-- 👯 I’m looking for collaborators on my Music Player Project [Fine Tune](https://github.com/ApoorvaKashyap/Fine-Tune).
+<!-- 👯 I’m looking for collaborators on my Music Player Project [Fine Tune](https://github.com/ApoorvaKashyap/Fine-Tune).-->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything related to customization of Ubuntu Linux. 🐧
 - 📬 How to reach me: Discord (AKashyap54#7858)
