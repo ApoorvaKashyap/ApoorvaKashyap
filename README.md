@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm **[Apoorva](https://apoorvakashyap.github.io/)!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="32px" alt="Spinning Earth">**
+# 👋 Hello World, I'm **[Apoorva](https://apoorvakashyap.github.io/)!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16px" alt="Spinning Earth">**
 
 <a href="mailto:apoorvakashyap54@gmail.com">
     <img align="left" alt="Apoorva Kashyap | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
@@ -26,13 +26,9 @@ Hi! I am Apoorva Kashyap.
 
 I am sorta explorer in the sea of coding languages and tools, with a deep interest in anything open source coz that means a lot of tweaking and suiting my needs of the hour.
 
-- 🔭 I’m currently working on completing the [CS50 Course](https://cs50.harvard.edu/) as well as my undergraduation. 😉
+- 🔭 I’m currently working on completing my undergraduation. 😉
 - 🌱 I’m currently learning not to procastinate my learning materials. 🙃
-<!-- 👯 I’m looking for collaborators on my Music Player Project [Fine Tune](https://github.com/ApoorvaKashyap/Fine-Tune).-->
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything related to customization of Ubuntu Linux. 🐧
-- 📬 How to reach me: Discord (AKashyap54#7858)
-- ⚡ Fun fact: I am too lazy to write this. 🦥🦥
+- 💬 Ask me about anything related to customization of Linux Distros. 🐧
 
 ---
 
