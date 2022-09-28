@@ -9,16 +9,16 @@
 <a href="https://replit.com/@ApoorvaKashyap">
     <img align="left" alt="Apoorva Kashyap | Repl.it" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/repl-dot-it.svg" />
 </a>
-<a href="https://twitter.com/kashyap_apoorva">
-    <img align="left" alt="Apoorva Kashyap | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <br />
 
 ---
 
 ## **About Me**
 
-Hi! I am Apoorva Kashyap. 
+Hi! I am Apoorva Kashyap, an open source enthusiast from India and a hopeless distro hopper.
+Currently taming Python on Garuda. 
+
+
 ---
 
 ### **Languages and Tools:**  
@@ -59,7 +59,7 @@ Hi! I am Apoorva Kashyap.
 
 ---
 
-### ⚡ **View my Github Stats** ⚡
+### **View my Github Stats** 
 
 <br/>
 
