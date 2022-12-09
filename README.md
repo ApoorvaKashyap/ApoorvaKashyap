@@ -57,19 +57,17 @@
 
 <p align="center">
     <a href="https://github.com/AVS1508">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApoorvaKashyap&count_private=true&show_icons=true&theme=onedark&hide=prs&include_all_commits=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaKashyap&theme=onedark&layout=compact"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApoorvaKashyap&count_private=true&show_icons=true&theme=onedark&hide=prs&include_all_commits=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ApoorvaKashyap&theme=onedark&layout=compact"/>
     </a>
 </p>
 
----
 
-### 
+### 🏆 &nbsp;Trophies
 
 <p  align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ApoorvaKashyap&theme=gitdimmed"/>       
 </p>
 
 
-<!--![Apoorva's Trophies](https://github-profile-trophy.vercel.app/?username=ApoorvaKashyap&theme=gitdimmed)-->
 
