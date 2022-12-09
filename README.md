@@ -53,8 +53,8 @@
 
 <p align="center">
     <a href="https://github.com/ApoorvaKashyap">
-        <img height="180em" width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApoorvaKashyap&count_private=true&show_icons=true&theme=onedark&hide=prs&include_all_commits=true"/>
-        <img height="180em" width="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ApoorvaKashyap&theme=onedark&layout=compact"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApoorvaKashyap&count_private=true&show_icons=true&theme=onedark&hide=prs&include_all_commits=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ApoorvaKashyap&theme=onedark&layout=compact"/>
     </a>
 </p>
 
