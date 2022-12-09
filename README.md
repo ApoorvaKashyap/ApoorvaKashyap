@@ -3,10 +3,7 @@
 <p  align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ApoorvaKashyap.Readme&left_color=#5DADE2"/> &nbsp;&nbsp; 
     <a href="https://www.hackerrank.com/apoorvakashyap54"><img src="https://img.shields.io/badge/-apoorvakashyap54-3423A6?style=flat&logo=HackerRank&logoColor=white"></a>
-
 </p>
-
-<br />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -19,9 +16,8 @@
 
 <br />
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
