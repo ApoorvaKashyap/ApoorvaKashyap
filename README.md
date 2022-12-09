@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and try to break them.\
+💡 &nbsp;I like to explore and hack new technologies.\
 🎓 &nbsp;I'm a recent graduate from National Rail and Transportation Institute, Vadodara.\
 🌱 &nbsp;I'm on track for learning cybersecurity.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Video Editing as hobbies.\
@@ -49,7 +49,7 @@
 
 <br />
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🗠 &nbsp;GitHub Stats
 
 <p align="center">
     <a href="https://github.com/AVS1508">
