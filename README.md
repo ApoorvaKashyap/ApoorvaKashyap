@@ -6,7 +6,9 @@
 
 <p  align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ApoorvaKashyap.Readme&left_color=#5DADE2"/> &nbsp;&nbsp; 
-    <a href="https://www.hackerrank.com/apoorvakashyap54"><img src="https://img.shields.io/badge/-apoorvakashyap54-3423A6?style=flat&logo=HackerRank&logoColor=white"></a>
+    <a href="https://www.hackerrank.com/apoorvakashyap54"><img src="https://img.shields.io/badge/-apoorvakashyap54-3423A6?style=flat&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/imitationnaval60"><img src="https://img.shields.io/badge/-immitationnaval60-DD3364?style=flat&logo=TryHackMe&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/profile/668334"><img src="https://img.shields.io/badge/-AKashyap54-45DD44?style=flat&logo=HackTheBox&logoColor=white"/></a>
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
