@@ -13,19 +13,19 @@ A systems and networking enthusiast with experience in low-level protocol design
 </p>
 
 <p align="center">
-    <a href="https://apoorvakashyap.github.io">
+    <a href="https://apoorvakashyap.github.io" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=plastic&logo=google-chrome&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/apoorvakashyap54">
+    <a href="https://linkedin.com/in/apoorvakashyap54" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://apoorvakashyap.github.io/musings/">
+    <a href="https://apoorvakashyap.github.io/musings/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Blog-0077B5?style=plastic&logo=blogger&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://fosstodon.org/@akashyap54">
+    <a href="https://fosstodon.org/@akashyap54" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Mastodon-6364FF?style=plastic&logo=mastodon&logoColor=white"/>
     </a>
 </p>
@@ -96,7 +96,7 @@ A systems and networking enthusiast with experience in low-level protocol design
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/ApoorvaKashyap">
+    <a href="https://github.com/ApoorvaKashyap" style="text-decoration: none;">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ApoorvaKashyap&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaKashyap&layout=compact&theme=transparent&hide_border=true"/>
     </a> <br/>
