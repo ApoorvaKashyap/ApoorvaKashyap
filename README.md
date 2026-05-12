@@ -1,89 +1,127 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-##  Hello World, I'm Apoorva!! 👋👋
+<h1 align="center">Hi, I'm Apoorva 👋</h1>
 
-<p  align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ApoorvaKashyap.Readme&left_color=#5DADE2"/> <br/>
-    <a href="https://www.hackerrank.com/apoorvakashyap54"><img src="https://img.shields.io/badge/-apoorvakashyap54-3423A6?style=flat&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/imitationnaval60"><img src="https://img.shields.io/badge/-immitationnaval60-DD3364?style=flat&logo=TryHackMe&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/profile/668334"><img src="https://img.shields.io/badge/-AKashyap54-45DD44?style=flat&logo=HackTheBox&logoColor=white"/></a>
-</p>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore and hack new technologies.\
-🎓 &nbsp;I'm a recent graduate from National Rail and Transportation Institute, Vadodara.\
-🌱 &nbsp;I'm on track for learning cybersecurity.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Video Editing as hobbies.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-📄 &nbsp;Please have a look at my [Résumé](https://apoorvakashyap.github.io/) for more details about me. I'm open to feedback and suggestions!
-
-<br />
-
-### 💻 &nbsp;Tech Stack
-
-#### 👨‍💻 &nbsp;Languages & Scripts  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-
-#### 👨‍🔧 &nbsp;IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-
-#### 🔧 &nbsp;Version Control 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python Poetry](https://img.shields.io/badge/-Poetry-05122A?style=flat&logo=poetry)&nbsp;
-
-#### 📦 &nbsp;Frameworks/Libraries
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-
-#### 🕹️ &nbsp;Hobbies
-![After Effects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
-![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;
-
-#### 🐧 &nbsp;Operating Systems
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-05122A?style=flat&logo=arch-linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
-
-<br />
-
-### 🤝🏻 &nbsp;Connect with Me
+<h3 align="center">
+A systems and networking enthusiast with experience in low-level protocol design, cloud-native data pipelines, and geospatial data engineering. I work with C++, Python, and modern infrastructure to build performant, reliable software.
+</h3>
 
 <p align="center">
-    <a href="https://apoorvakashyap.github.io"><img src="https://img.shields.io/badge/-apoorvakashyap.github.io-E4405F?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/apoorvakashyap54"><img src="https://img.shields.io/badge/-apoorvakashyap54-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:apoorvakashyap54@gmail.com"><img src="https://img.shields.io/badge/-apoorvakashyap54@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://fosstodon.org/@akashyap54"><img src="https://img.shields.io/badge/-@akashyap54@fosstodon.org-3423A6?style=flat&logo=Mastodon&logoColor=white"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ApoorvaKashyap.Readme&left_color=0E75B6&right_color=24292F"/>
 </p>
 
-<br />
-
-### 📊 &nbsp;GitHub Stats
-
 <p align="center">
-    <a href="https://github.com/ApoorvaKashyap">
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApoorvaKashyap&count_private=true&show_icons=true&theme=onedark&hide=prs&include_all_commits=true"/>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ApoorvaKashyap&theme=onedark&layout=compact"/>
+    <a href="https://apoorvakashyap.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=plastic&logo=google-chrome&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/apoorvakashyap54">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://apoorvakashyap.github.io/musings/">
+        <img src="https://img.shields.io/badge/Blog-0077B5?style=plastic&logo=blogger&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://fosstodon.org/@akashyap54">
+        <img src="https://img.shields.io/badge/Mastodon-6364FF?style=plastic&logo=mastodon&logoColor=white"/>
     </a>
 </p>
 
+---
 
-### 🏆 &nbsp;Trophies
+## 👨‍💻 About Me
 
-<p  align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ApoorvaKashyap&theme=gitdimmed"/>       
-</p>
+- 🔭 Building performant systems and cloud-native infrastructure
+- 🌐 Interested in networking, distributed systems, and data engineering
+- ⚙️ Exploring low-level protocol design and Linux internals
+- 🚀 Passionate about scalable backend systems and observability
+- 🦀 Currently learning Rust
+
+---
+
+## 💻 Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=plastic&logo=argo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+
+
+---
+
+## 🔧 Build / Version Control
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=plastic&logo=cmake&logoColor=white)
+![uv](https://img.shields.io/badge/uv-064F8C?style=plastic&logo=uv&logoColor=white)
+
+---
+
+## 🗄️ Data & Web
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=plastic&logo=svelte&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=plastic&logo=polars&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=plastic&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white)
+
+---
+
+## 📖 Currently Learning
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
+
+---
+
+## 🐧 Operating Systems
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=plastic&logo=fedora&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+    <a href="https://github.com/ApoorvaKashyap">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ApoorvaKashyap&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaKashyap&layout=compact&theme=transparent&hide_border=true"/>
+    </a>
+    <img src="https://streak-stats.demolab.com?user=ApoorvaKashyap&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
+
+
+
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ApoorvaKashyap&theme=transparent&no-frame=false&margin-w=10"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
