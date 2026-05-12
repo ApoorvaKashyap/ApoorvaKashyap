@@ -103,12 +103,9 @@ A systems and networking enthusiast with experience in low-level protocol design
     <a href="https://github.com/ApoorvaKashyap">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ApoorvaKashyap&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaKashyap&layout=compact&theme=transparent&hide_border=true"/>
-    </a>
+    </a> <br/>
     <img src="https://streak-stats.demolab.com?user=ApoorvaKashyap&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
-
-
-
 
 
 ---
