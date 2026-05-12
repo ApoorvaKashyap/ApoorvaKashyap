@@ -42,7 +42,9 @@ A systems and networking enthusiast with experience in low-level protocol design
 
 ---
 
-## 💻 Languages
+## Tech Stack
+
+### 💻 Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
@@ -50,9 +52,8 @@ A systems and networking enthusiast with experience in low-level protocol design
 ![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
----
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
@@ -61,17 +62,15 @@ A systems and networking enthusiast with experience in low-level protocol design
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
 
----
 
-## 🔧 Build / Version Control
+### 🔧 Build / Version Control
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=plastic&logo=cmake&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-064F8C?style=plastic&logo=uv&logoColor=white)
 
----
 
-## 🗄️ Data & Web
+### 🗄️ Data & Web
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
@@ -83,15 +82,12 @@ A systems and networking enthusiast with experience in low-level protocol design
 ![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=plastic&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white)
 
----
-
-## 📖 Currently Learning
+### 📖 Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
 
----
 
-## 🐧 Operating Systems
+### 🐧 Operating Systems
 
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=plastic&logo=fedora&logoColor=white)
 
